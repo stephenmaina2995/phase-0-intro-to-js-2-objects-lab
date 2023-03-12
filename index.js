@@ -22,6 +22,6 @@ const employee = {
         delete employee[key];
         return employee;
   }
-//   function destructivelyDeleteFromEmployeeKey(employee, key) {
+  function destructivelyDeleteFromEmployeeKey(employee, key) {
     
-//   }
+  }
